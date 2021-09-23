@@ -8,7 +8,23 @@
 - Additional Documentation
 - Versioning
 
-Hello Humans!
+# Project Title
+Hello World Assignment 
 
-My name is Ben Domalewski and I am currently a third-year student at the University of Iowa, and I am majoring in Business Analytics & Information Systems.
-I enjoy listening to music and watching sports whenever I have some free time.
+# Description
+This is an assignment for BAIS Pro Prep
+
+# How to Run Program
+steps to be followed in order to run program
+- Step 1
+- Step 2
+- Step 3
+
+# Files Used
+any data files used will be linked here
+
+# Additional Documentation
+additional documents to be referenced will be linked here
+
+# Versioning
+any previous versions of program will be linked here
